@@ -114,7 +114,7 @@ We will evaluate your project (for the most part) using the following criteria. 
 - Have the data been scaled appropriately?
 - Does the student properly split and/or sample the data for validation/training purposes?
 - Does the student utilize feature selection to remove noisy or multi-collinear features?
-- Does the student test and evaluate a variety of models to identify a production algorithm (**AT MINIMUM:** linear regression, lasso, and ridge)?
+- Does the student test and evaluate a variety of models to identify a production algorithm (**AT MINIMUM:** two models: linear regression, lasso, and ridge)?
 - Does the student defend their choice of production model relevant to the data at hand and the problem?
 - Does the student explain how the model works and evaluate its performance successes/downfalls?
 
